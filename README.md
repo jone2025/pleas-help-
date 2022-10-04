@@ -1,0 +1,2 @@
+# pleas-help-
+Create a program that asks the user to enter two (2) numbers. No List!!!. Create a while loop to iterate through the numbers from lowest to highest    For each number you must determine if it is even or odd    Find the sum of all even numbers    Find the sum of all odd numbers    Print out the even numbers.  Print out the odd numbers  Print out the sum of all even numbers  Print out the sum of all odd numbers   
